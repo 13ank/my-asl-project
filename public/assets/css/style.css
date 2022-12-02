@@ -142,7 +142,7 @@ h6 {
 }
 
 #header .logo img {
-  max-height: 40px;
+  max-height: 45px;
 }
 
 @media (max-width: 992px) {
@@ -772,7 +772,7 @@ section {
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
-  border-left: 2px solid #34b7a7;
+  border-left: 2px solid #4285f4;
   position: relative;
 }
 
@@ -816,7 +816,7 @@ section {
   left: -9px;
   top: 0;
   background: #fff;
-  border: 2px solid #34b7a7;
+  border: 2px solid #4285f4;
 }
 
 /*--------------------------------------------------------------
