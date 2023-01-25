@@ -19,13 +19,10 @@ a:hover {
 h1,
 h2,
 h3,
+h4,
 h5,
 h6 {
-  font-family: "Raleway", sans-serif;
-}
-
-็h4 {
-  font-family: 'Kanit', sans-serif;
+  font-family: "Raleway", sans-serif, "Kanit", sans-serif;
 }
 
 #main {
